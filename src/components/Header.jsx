@@ -27,7 +27,7 @@ const Header = () => {
           <div className="flex items-center">
             <img src={logo} alt="/" style={{ width: '20%', height: 'auto' }} />
             <span className="text-xl border-b-[#F2921D] border-b" style={{ marginLeft: '10px' }}>
-              Ch<span className="text-[#F0A500]">o</span>c <span className="text-[#F0A500]">a</span> L
+              Ch<span className="text-[#F0A500]">oo</span>c <span className="text-[#F0A500]">a</span> L
               <span className="text-[#F0A500]">o</span>t
             </span>
           </div>
